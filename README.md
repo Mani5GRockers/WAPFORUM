@@ -1,5 +1,9 @@
 # Document Type Declaration
 
+ * https://en.wikipedia.org/wiki/XHTML_Mobile_Profile
+ 
+ * https://en.wikipedia.org/wiki/Document_type_declaration
+
 * <!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
 
 * <!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.1//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile11.dtd">
